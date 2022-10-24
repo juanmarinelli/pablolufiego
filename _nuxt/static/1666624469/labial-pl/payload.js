@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/labial-pl", {data:[{}],fetch:{},mutations:[]});
