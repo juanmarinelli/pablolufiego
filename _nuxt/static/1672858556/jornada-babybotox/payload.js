@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/jornada-babybotox", {data:[{}],fetch:{},mutations:[]});
